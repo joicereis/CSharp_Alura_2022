@@ -1,0 +1,7 @@
+C:\Users\joice\source\repos\ComandoBreak\bin\Debug\ComandoBreak.exe.config
+C:\Users\joice\source\repos\ComandoBreak\bin\Debug\ComandoBreak.exe
+C:\Users\joice\source\repos\ComandoBreak\bin\Debug\ComandoBreak.pdb
+C:\Users\joice\source\repos\ComandoBreak\obj\Debug\ComandoBreak.csprojAssemblyReference.cache
+C:\Users\joice\source\repos\ComandoBreak\obj\Debug\ComandoBreak.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\ComandoBreak\obj\Debug\ComandoBreak.exe
+C:\Users\joice\source\repos\ComandoBreak\obj\Debug\ComandoBreak.pdb

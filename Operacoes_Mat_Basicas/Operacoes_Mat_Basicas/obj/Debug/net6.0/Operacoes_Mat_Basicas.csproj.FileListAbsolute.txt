@@ -1,0 +1,15 @@
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\bin\Debug\net6.0\Operacoes_Mat_Basicas.exe
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\bin\Debug\net6.0\Operacoes_Mat_Basicas.deps.json
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\bin\Debug\net6.0\Operacoes_Mat_Basicas.runtimeconfig.json
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\bin\Debug\net6.0\Operacoes_Mat_Basicas.dll
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\bin\Debug\net6.0\Operacoes_Mat_Basicas.pdb
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\obj\Debug\net6.0\Operacoes_Mat_Basicas.csproj.AssemblyReference.cache
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\obj\Debug\net6.0\Operacoes_Mat_Basicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\obj\Debug\net6.0\Operacoes_Mat_Basicas.AssemblyInfoInputs.cache
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\obj\Debug\net6.0\Operacoes_Mat_Basicas.AssemblyInfo.cs
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\obj\Debug\net6.0\Operacoes_Mat_Basicas.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\obj\Debug\net6.0\Operacoes_Mat_Basicas.dll
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\obj\Debug\net6.0\refint\Operacoes_Mat_Basicas.dll
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\obj\Debug\net6.0\Operacoes_Mat_Basicas.pdb
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\obj\Debug\net6.0\Operacoes_Mat_Basicas.genruntimeconfig.cache
+C:\Users\joice\source\repos\Operacoes_Mat_Basicas\Operacoes_Mat_Basicas\obj\Debug\net6.0\ref\Operacoes_Mat_Basicas.dll

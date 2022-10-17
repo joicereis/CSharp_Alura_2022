@@ -1,0 +1,6 @@
+C:\Users\joice\source\repos\MultiplosDe3\bin\Debug\MultiplosDe3.exe.config
+C:\Users\joice\source\repos\MultiplosDe3\bin\Debug\MultiplosDe3.exe
+C:\Users\joice\source\repos\MultiplosDe3\bin\Debug\MultiplosDe3.pdb
+C:\Users\joice\source\repos\MultiplosDe3\obj\Debug\MultiplosDe3.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\MultiplosDe3\obj\Debug\MultiplosDe3.exe
+C:\Users\joice\source\repos\MultiplosDe3\obj\Debug\MultiplosDe3.pdb

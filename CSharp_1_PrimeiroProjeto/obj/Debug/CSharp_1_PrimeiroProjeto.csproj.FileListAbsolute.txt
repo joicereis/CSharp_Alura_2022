@@ -1,0 +1,7 @@
+C:\Users\joice\source\repos\CSharp_1_PrimeiroProjeto\bin\Debug\CSharp_1_PrimeiroProjeto.exe.config
+C:\Users\joice\source\repos\CSharp_1_PrimeiroProjeto\bin\Debug\CSharp_1_PrimeiroProjeto.exe
+C:\Users\joice\source\repos\CSharp_1_PrimeiroProjeto\bin\Debug\CSharp_1_PrimeiroProjeto.pdb
+C:\Users\joice\source\repos\CSharp_1_PrimeiroProjeto\obj\Debug\CSharp_1_PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\joice\source\repos\CSharp_1_PrimeiroProjeto\obj\Debug\CSharp_1_PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\CSharp_1_PrimeiroProjeto\obj\Debug\CSharp_1_PrimeiroProjeto.exe
+C:\Users\joice\source\repos\CSharp_1_PrimeiroProjeto\obj\Debug\CSharp_1_PrimeiroProjeto.pdb

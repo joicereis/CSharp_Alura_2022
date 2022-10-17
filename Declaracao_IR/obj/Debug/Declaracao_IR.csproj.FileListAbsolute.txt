@@ -1,0 +1,7 @@
+C:\Users\joice\source\repos\Declaracao_IR\bin\Debug\Declaracao_IR.exe.config
+C:\Users\joice\source\repos\Declaracao_IR\bin\Debug\Declaracao_IR.exe
+C:\Users\joice\source\repos\Declaracao_IR\bin\Debug\Declaracao_IR.pdb
+C:\Users\joice\source\repos\Declaracao_IR\obj\Debug\Declaracao_IR.csprojAssemblyReference.cache
+C:\Users\joice\source\repos\Declaracao_IR\obj\Debug\Declaracao_IR.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\Declaracao_IR\obj\Debug\Declaracao_IR.exe
+C:\Users\joice\source\repos\Declaracao_IR\obj\Debug\Declaracao_IR.pdb

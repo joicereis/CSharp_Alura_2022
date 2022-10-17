@@ -1,0 +1,6 @@
+C:\Users\joice\source\repos\InvestimentoALongoPrazo\bin\Debug\InvestimentoALongoPrazo.exe.config
+C:\Users\joice\source\repos\InvestimentoALongoPrazo\bin\Debug\InvestimentoALongoPrazo.exe
+C:\Users\joice\source\repos\InvestimentoALongoPrazo\bin\Debug\InvestimentoALongoPrazo.pdb
+C:\Users\joice\source\repos\InvestimentoALongoPrazo\obj\Debug\InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\InvestimentoALongoPrazo\obj\Debug\InvestimentoALongoPrazo.exe
+C:\Users\joice\source\repos\InvestimentoALongoPrazo\obj\Debug\InvestimentoALongoPrazo.pdb

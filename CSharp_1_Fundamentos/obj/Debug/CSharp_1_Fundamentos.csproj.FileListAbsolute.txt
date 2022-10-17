@@ -1,0 +1,7 @@
+C:\Users\joice\source\repos\CSharp_1_Fundamentos\bin\Debug\CSharp_1_Fundamentos.exe.config
+C:\Users\joice\source\repos\CSharp_1_Fundamentos\bin\Debug\CSharp_1_Fundamentos.exe
+C:\Users\joice\source\repos\CSharp_1_Fundamentos\bin\Debug\CSharp_1_Fundamentos.pdb
+C:\Users\joice\source\repos\CSharp_1_Fundamentos\obj\Debug\CSharp_1_Fundamentos.csprojAssemblyReference.cache
+C:\Users\joice\source\repos\CSharp_1_Fundamentos\obj\Debug\CSharp_1_Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\CSharp_1_Fundamentos\obj\Debug\CSharp_1_Fundamentos.exe
+C:\Users\joice\source\repos\CSharp_1_Fundamentos\obj\Debug\CSharp_1_Fundamentos.pdb

@@ -1,0 +1,6 @@
+C:\Users\joice\source\repos\ComandoBreakExcercicio\bin\Debug\ComandoBreakExcercicio.exe.config
+C:\Users\joice\source\repos\ComandoBreakExcercicio\bin\Debug\ComandoBreakExcercicio.exe
+C:\Users\joice\source\repos\ComandoBreakExcercicio\bin\Debug\ComandoBreakExcercicio.pdb
+C:\Users\joice\source\repos\ComandoBreakExcercicio\obj\Debug\ComandoBreakExcercicio.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\ComandoBreakExcercicio\obj\Debug\ComandoBreakExcercicio.exe
+C:\Users\joice\source\repos\ComandoBreakExcercicio\obj\Debug\ComandoBreakExcercicio.pdb

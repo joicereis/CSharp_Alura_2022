@@ -1,0 +1,15 @@
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\bin\Debug\net6.0\byteBank_Alura.exe
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\bin\Debug\net6.0\byteBank_Alura.deps.json
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\bin\Debug\net6.0\byteBank_Alura.runtimeconfig.json
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\bin\Debug\net6.0\byteBank_Alura.dll
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\bin\Debug\net6.0\byteBank_Alura.pdb
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\obj\Debug\net6.0\byteBank_Alura.csproj.AssemblyReference.cache
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\obj\Debug\net6.0\byteBank_Alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\obj\Debug\net6.0\byteBank_Alura.AssemblyInfoInputs.cache
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\obj\Debug\net6.0\byteBank_Alura.AssemblyInfo.cs
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\obj\Debug\net6.0\byteBank_Alura.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\obj\Debug\net6.0\byteBank_Alura.dll
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\obj\Debug\net6.0\refint\byteBank_Alura.dll
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\obj\Debug\net6.0\byteBank_Alura.pdb
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\obj\Debug\net6.0\byteBank_Alura.genruntimeconfig.cache
+C:\Users\joice\source\repos\byteBank_Alura\byteBank_Alura\obj\Debug\net6.0\ref\byteBank_Alura.dll

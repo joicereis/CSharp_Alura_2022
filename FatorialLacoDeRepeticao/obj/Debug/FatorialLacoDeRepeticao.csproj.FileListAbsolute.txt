@@ -1,0 +1,6 @@
+C:\Users\joice\source\repos\FatorialLacoDeRepeticao\bin\Debug\FatorialLacoDeRepeticao.exe.config
+C:\Users\joice\source\repos\FatorialLacoDeRepeticao\bin\Debug\FatorialLacoDeRepeticao.exe
+C:\Users\joice\source\repos\FatorialLacoDeRepeticao\bin\Debug\FatorialLacoDeRepeticao.pdb
+C:\Users\joice\source\repos\FatorialLacoDeRepeticao\obj\Debug\FatorialLacoDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\FatorialLacoDeRepeticao\obj\Debug\FatorialLacoDeRepeticao.exe
+C:\Users\joice\source\repos\FatorialLacoDeRepeticao\obj\Debug\FatorialLacoDeRepeticao.pdb
